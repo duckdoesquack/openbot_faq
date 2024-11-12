@@ -3,3 +3,4 @@ langchain
 langchain_google_genai
 langchain-community
 chromadb
+pysqlite3-binary
