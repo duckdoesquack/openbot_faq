@@ -2,5 +2,5 @@ beautifulsoup4
 langchain
 langchain_google_genai
 langchain-community
-chromadb
+chromadb==0.3.29
 sqlite3==3.35.0
