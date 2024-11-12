@@ -3,4 +3,4 @@ langchain
 langchain_google_genai
 langchain-community
 chromadb
-pysqlite3-binary==3.35.0
+sqlite3==3.35.0
